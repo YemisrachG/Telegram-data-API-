@@ -1,0 +1,14 @@
+
+python-dotenv
+telethon
+pandas
+SQLAlchemy
+psycopg2-binary
+dbt-core
+dbt-postgres
+fastapi
+uvicorn
+Pillow
+opencv-python
+ultralytics
+
