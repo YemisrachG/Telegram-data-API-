@@ -1,0 +1,3 @@
+# medical_insights_dwh/dbt_project/models/schema.yml
+version: 2
+# No 'sources' block or other model definitions here (unless you know what you're doing)
